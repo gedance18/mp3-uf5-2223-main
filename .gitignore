@@ -1,0 +1,8 @@
+/.idea
+/out
+/target
+proves
+
+*.class
+*.iml
+*.old
